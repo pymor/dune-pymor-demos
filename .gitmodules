@@ -4,3 +4,6 @@
 [submodule "dune-pymor"]
 	path = dune-pymor
 	url = https://github.com/pyMor/dune-pymor.git
+[submodule "local/bin"]
+	path = local/bin
+	url = http://users.dune-project.org/repositories/projects/dune-demos-bin.git
