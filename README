@@ -15,3 +15,19 @@ To get started, clone this repository and call 'git submodule update', i.e.:
     git clone https://github.com/pyMor/dune-pymor-demos.git
     cd dune-pymor-demos
     git submodue update --init
+
+You can now have a look at the config.opts.?? files if one of them is
+named after compiler that is available on your system. IF not, copy an
+existing file and edit it accordingly, i.e.:
+
+    cp config.opts.gcc config.opts.mycppcompiler
+
+You can now set the CC environment variable to your compiler and generate
+a PATH.sh file, i.e.:
+
+    CC=gcc ./local/bin/gen_path.py
+    source PATH.sh
+
+It is convenient to source this file from now on, whenever you want to work
+on dune-pymor, since many of the provided scripts require the CC variable to
+be set correctly.
