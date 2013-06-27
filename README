@@ -3,12 +3,12 @@
 # Copyright Holders: Felix Albrecht, Stephan Rave
 # License: BSD 2-Clause License (http://opensource.org/licenses/BSD-2-Clause)
 
-dune-pymordemos is a git supermodule which serves a demonstration module for
-dune-pymor (https://github.com/pyMor/dune-pymor). This module provides the
-correct versions of all relevant DUNE (http://www.dune-project.org) modules
-and of pyMor (http://www.pymor.org) as git submodules. It also provides a
-git submodule located in local/bin which containes some helper scripts to
-download and build the demos.
+dune-pymor-demos is a git supermodule which serves as a demonstration module
+for dune-pymor (https://github.com/pyMor/dune-pymor). This module provides
+the correct versions of all relevant DUNE (http://www.dune-project.org)
+modules and of pyMor (http://www.pymor.org) as git submodules. It also
+provides a git submodule located in local/bin which containes some helper
+scripts to download and build the demos.
 
 To get started, clone this repository and call 'git submodule update', i.e.:
 
