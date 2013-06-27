@@ -1,3 +1,6 @@
 [submodule "dune-common"]
 	path = dune-common
 	url = http://git.dune-project.org/repositories/dune-common
+[submodule "dune-pymor"]
+	path = dune-pymor
+	url = https://github.com/pyMor/dune-pymor.git
