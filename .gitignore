@@ -1,1 +1,7 @@
 PATH.sh
+local/build
+local/include
+local/lib
+local/local
+local/src
+demos
