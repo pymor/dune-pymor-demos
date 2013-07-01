@@ -10,3 +10,6 @@
 [submodule "pyMor"]
 	path = pyMor
 	url = https://github.com/pyMor/pyMor.git
+[submodule "dune-stuff"]
+	path = dune-stuff
+	url = http://users.dune-project.org/repositories/projects/dune-stuff.git
