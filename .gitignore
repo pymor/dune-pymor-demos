@@ -5,3 +5,5 @@ local/lib
 local/local
 local/src
 demos
+local/man
+local/share
