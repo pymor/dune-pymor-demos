@@ -7,3 +7,4 @@ local/src
 demos
 local/man
 local/share
+virtualenv
