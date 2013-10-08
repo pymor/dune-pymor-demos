@@ -13,3 +13,6 @@
 [submodule "dune-stuff"]
 	path = dune-stuff
 	url = http://users.dune-project.org/repositories/projects/dune-stuff.git
+[submodule "dune-geometry"]
+	path = dune-geometry
+	url = http://git.dune-project.org/repositories/dune-geometry
