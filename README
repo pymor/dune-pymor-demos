@@ -1,18 +1,18 @@
 # This file is part of the dune-pymor-demos project:
-#   https://github.com/pyMor/dune-pymor-demos
+#   https://github.com/pymor/dune-pymor-demos
 # Copyright Holders: Felix Albrecht, Stephan Rave
 # License: BSD 2-Clause License (http://opensource.org/licenses/BSD-2-Clause)
 
 dune-pymor-demos is a git supermodule which serves as a demonstration module
-for dune-pymor (https://github.com/pyMor/dune-pymor). This module provides
+for dune-pymor (https://github.com/pymor/dune-pymor). This module provides
 the correct versions of all relevant DUNE (http://www.dune-project.org)
-modules and of pyMor (http://www.pymor.org) as git submodules. It also
+modules and of pymor (http://www.pymor.org) as git submodules. It also
 provides a git submodule located in local/bin which containes some helper
 scripts to download and build the demos.
 
 To get started, clone this repository and initialize the submodules, i.e.:
 
-    git clone https://github.com/pyMor/dune-pymor-demos.git
+    git clone https://github.com/pymor/dune-pymor-demos.git
     cd dune-pymor-demos
     git submodule update --init
 
