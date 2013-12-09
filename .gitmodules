@@ -1,18 +1,24 @@
 [submodule "dune-common"]
 	path = dune-common
 	url = http://git.dune-project.org/repositories/dune-common
+        ignore = dirty
 [submodule "dune-pymor"]
 	path = dune-pymor
 	url = https://github.com/pymor/dune-pymor.git
+        ignore = untracked
 [submodule "local/bin"]
 	path = local/bin
 	url = http://users.dune-project.org/repositories/projects/dune-demos-bin.git
+        ignore = untracked
 [submodule "dune-stuff"]
 	path = dune-stuff
 	url = http://users.dune-project.org/repositories/projects/dune-stuff.git
+        ignore = untracked
 [submodule "dune-geometry"]
 	path = dune-geometry
 	url = http://git.dune-project.org/repositories/dune-geometry
+        ignore = dirty
 [submodule "pymor"]
 	path = pymor
 	url = https://github.com/pymor/pymor.git
+        ignore = untracked
