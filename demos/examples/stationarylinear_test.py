@@ -1,0 +1,1 @@
+../../dune-pymor/examples/stationarylinear_test.py
