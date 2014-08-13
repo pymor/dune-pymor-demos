@@ -22,3 +22,6 @@
 	path = pymor
 	url = https://github.com/pymor/pymor.git
         ignore = untracked
+[submodule "configs"]
+	path = configs
+	url = https://users.dune-project.org/repositories/projects/dune-config-opts.git
