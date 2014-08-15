@@ -24,4 +24,4 @@
         ignore = untracked
 [submodule "configs"]
 	path = configs
-	url = https://users.dune-project.org/repositories/projects/dune-config-opts.git
+	url = http://users.dune-project.org/repositories/projects/dune-config-opts.git
