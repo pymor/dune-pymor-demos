@@ -25,3 +25,6 @@
 [submodule "configs"]
 	path = configs
 	url = http://users.dune-project.org/repositories/projects/dune-config-opts.git
+[submodule "scripts"]
+	path = scripts
+	url = https://github.com/wwu-numerik/scripts.git
