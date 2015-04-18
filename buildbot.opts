@@ -1,11 +1,11 @@
 [gcc_4.8] 
-file = config.opts.gcc
-cc = gcc
+file = config.opts/gcc-4.8
+cc = gcc-4.8
 
 [icc_14]
-file = config.opts.icc
+file = config.opts/icc
 cc = icc
 
 [clang_3.5]
-file = config.opts.clang
-cc = clang
+file = config.opts/clang-3.5
+cc = clang-3.5
