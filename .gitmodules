@@ -12,7 +12,7 @@
         ignore = untracked
 [submodule "dune-stuff"]
 	path = dune-stuff
-	url = http://users.dune-project.org/repositories/projects/dune-stuff.git
+	url = https://github.com/wwu-numerik/dune-stuff
         ignore = untracked
 [submodule "dune-geometry"]
 	path = dune-geometry
