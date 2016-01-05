@@ -28,3 +28,6 @@
 [submodule "config.opts"]
 	path = config.opts
 	url = http://users.dune-project.org/repositories/projects/dune-config-opts.git
+[submodule "dune-python"]
+	path = dune-python
+	url = https://gitlab.dune-project.org/quality/dune-python.git
